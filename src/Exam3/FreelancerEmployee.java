@@ -1,4 +1,4 @@
-package Exam2;
+package Exam3;
 
 public class FreelancerEmployee {
     public String name;
